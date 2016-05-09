@@ -1,0 +1,8 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+<?xml version="1.0" encoding="UTF-8"?><artifacts>
+	<!--artifact name="${apiName}" groupId="${package}.api" version="${version}" type="synapse/api" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/api/</file>
+    </artifact-->
+</artifacts>
